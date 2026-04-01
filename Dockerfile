@@ -1,5 +1,7 @@
-FROM bitnami/minideb:latest
-Label MAINTAINER Amir Pourmand
+# FROM bitnami/minideb:latest
+# Label MAINTAINER Amir Pourmand
+FROM ruby:3.2
+
 RUN apt-get update -y
 # add locale
 RUN apt-get -y install locales
