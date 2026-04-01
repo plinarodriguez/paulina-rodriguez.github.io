@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational scientist building credible, reproducible, decision-ready computational models.
+subtitle: Computational scientist building credible, reproducible, and decision-ready computational models.
 
 profile:
   align: right
