@@ -725,3 +725,13 @@ progress {
      display: block;
      height: inherit;
  }
+
+//  New Stufff remove if breaks page
+  .repo-card {
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+  .repo-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}

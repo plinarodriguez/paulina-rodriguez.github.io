@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Paulina Rodriguez
-    - name: Date of Birth
-      value: 5th November 1988
+    # - name: Date of Birth
+    #   value: 5th November 1988
     - name: Languages
       value: English, Spanish
 
@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. Mechanical and Aerospace Engineering
       institution: The George Washington University <br> School of Engineering & Applied Science <br> Department of Mechanical and Aerospace Engineering
-      year: 2025
+      year: Summer 2026
       description:
     - title: M.S. Mathematics
       institution: Claremont Graduate University <br>Institute of Mathematical Sciences
@@ -36,7 +36,7 @@
       description: Training on and Implementing UQ, Validation Metrics, and NGW/IWF Process to an Ablation Dataset.
     - title: Graduate Student, Computational Science Graduate Fellowship
       institution: The George Washington University (GWU), Washington, DC
-      year: 2021 - Current
+      year: 2021 - 2025
       description: Developing a Computational Model of an Electronic Drug Delivery System Using Open Source Software and Integrating Reproducibility into Credibility Activities. Conduct Verification of Computational Model.
     - title: Guest Researcher, ABioM Project
       institution: US Food and Drugs Administration (US FDA), Silver Spring, MD
