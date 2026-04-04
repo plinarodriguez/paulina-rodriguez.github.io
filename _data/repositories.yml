@@ -3,9 +3,9 @@ github_users:
   - paulina-rodriguez
 
 github_repos:
-  - /plinarodriguez/repro-edds
+  - plinarodriguez/repro-edds
   - paulina-rodriguez/repro-template
   - plinarodriguez/ABioM
-  - mitchell-fanger/SimSight
+  - plinarodriguez/SimSight
   - paulina-rodriguez/numerical-mooc
   - paulina-rodriguez/AeroPython
