@@ -14,10 +14,12 @@ nav_order: 4
 {% if site.data.repositories.github_users %}
 <div class="repo-card p-3 mb-3 border rounded">
   <a href="https://github.com/{{ include.repository }}">
-    <h5 class="mb-1">{{ include.repository }}</h5>
+    <h5 class="mb-1">Stuff</h5>
   </a>
   <p class="mb-1 small text-muted">
-    {{ include.description | default: "GitHub repository" }}
+    {% for user in site.data.repositories.github_users %}
+      {% include repository/repo_user.html username=user %}
+    {% endfor %}
   </p>
 </div>
 {% endif %}
@@ -29,7 +31,11 @@ nav_order: 4
 {% if site.data.repositories.github_repos %}
 <div class="repo-card p-3 mb-3 border rounded">
   <a href="https://github.com/{{ include.username }}">
-    <h5>@{{ include.username }}</h5>
+    <h5>
+    {% for repo in site.data.repositories.github_repos %}
+      {% include repository/repo.html repository=repo %}
+    {% endfor %} 
+    </h5>
   </a>
 </div>
 {% endif %}
