@@ -1,6 +1,3 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow: /assets
 Disallow: /news
@@ -8,4 +5,4 @@ Disallow: /blog
 Disallow: /_pages
 Disallow: /teaching
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://rodriguezpaulina.com/sitemap.xml
