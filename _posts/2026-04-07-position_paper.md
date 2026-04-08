@@ -6,6 +6,12 @@ description: "Why reproducibility and VVUQ are essential for building credible, 
 tags: reproducibility, scientific-computing, vvuq, hpc, workflows
 categories: position_paper
 ---
+
+### Citation
+Rodriguez, Paulina (2026). Reproducibility and Credibility Are the Foundations of Team-Based Scientific Computing. figshare. Online resource. <a href="https://doi.org/10.6084/m9.figshare.31956681.v1">https://doi.org/10.6084/m9.figshare.31956681.v1</a>
+
+<hr> 
+
 (Revised April 1, 2026)
 
 High-consequence decisions cannot rely on models that no one can re-run, where plots cannot be regenerated, and where data is no longer interpretable. Reproducibility makes computational modeling and simulation (CM&S) evidence durable and portable across people, platforms, and time. Despite years of recognizing its necessity for quality science, it is still not systematically implemented. 
@@ -45,10 +51,3 @@ To enable trustworthy, team-based modeling, funding agencies and institutions mu
 
 To scale scientific computing, we must treat reproducibility and credibility as core pillars, not afterthoughts. Credibility and reproducibility are inseparable. Scientific computing will not scale to meet future challenges if we rely on black-box tools, untracked workflows, or fragile individual knowledge. The next generation of team-based ecosystems must build trust by design, through open tools, reproducible practices, and rigorous VVUQ.
 
-<hr>
-
-### Download Position Paper
-Figshare:  <a href="https://figshare.com/articles/online_resource/Reproducibility_and_Credibility_Are_the_Foundations_of_Team-Based_Scientific_Computing/31956681?file=63539874">Reproducibility and Credibility Are the Foundations of Team-Based Scientific Computing </a> 
-
-### Recommended Citation
-Rodriguez, Paulina (2026). Reproducibility and Credibility Are the Foundations of Team-Based Scientific Computing. figshare. Online resource. https://doi.org/10.6084/m9.figshare.31956681.v1
