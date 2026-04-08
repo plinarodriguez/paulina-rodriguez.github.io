@@ -8,7 +8,7 @@ categories: position_paper
 ---
 
 ### Citation
-Rodriguez, Paulina (2026). Reproducibility and Credibility Are the Foundations of Team-Based Scientific Computing. figshare. Online resource. https://doi.org/10.6084/m9.figshare.31956681.v1
+Rodriguez, Paulina (2026). Reproducibility and Credibility Are the Foundations of Team-Based Scientific Computing. figshare. Online resource. <a href="https://doi.org/10.6084/m9.figshare.31956681.v1">https://doi.org/10.6084/m9.figshare.31956681.v1 </a>
 
 <hr> 
 
